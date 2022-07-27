@@ -4,7 +4,8 @@ The purpose of this project is to perform image translation between summer and w
 
 CycleGAN architecture: 
 
-<img width="914" alt="Screen Shot 2022-07-26 at 11 04 14 PM" src="https://user-images.githubusercontent.com/72672367/181151750-48904095-800f-4f8b-8078-73856b478ac0.png">
+<img width="999" alt="Screen Shot 2022-07-26 at 11 44 18 PM" src="https://user-images.githubusercontent.com/72672367/181156175-44b6c7b4-6e20-4c98-bfde-d2594a533358.png">
+
 
 A few highlights of the CycleGAN model: 
 - The discriminator used Conv2D layer at the end to be able to output real/fake lables at region level for an image instead of a single real/fake classification. 
