@@ -38,6 +38,7 @@ Sample Result:
 <img width="799" alt="Screen Shot 2022-07-26 at 11 24 20 PM" src="https://user-images.githubusercontent.com/72672367/181153986-11eb2716-1606-48ff-bfca-a48311a22b1d.png">
 
 References: 
+
 [1] Mehul Gupta. (2021, Sep 14) Understanding CycleGANs using examples & Codes. Retrieved from https://medium.com/data-science-in-your-pocket/understanding-cyclegans-using-examples-codes-f5d6e1a47048.
 
 [2] Balraj Asjwath. Summer2Winter Yosemite. https://www.kaggle.com/datasets/balraj98/summer2winter-yosemite.
