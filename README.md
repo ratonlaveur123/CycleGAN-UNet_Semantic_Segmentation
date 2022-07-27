@@ -39,7 +39,9 @@ Sample Result:
 
 References: 
 [1] Mehul Gupta. (2021, Sep 14) Understanding CycleGANs using examples & Codes. Retrieved from https://medium.com/data-science-in-your-pocket/understanding-cyclegans-using-examples-codes-f5d6e1a47048
+
 [2] Balraj Ashwath. UNet for Segmenting BobRoss Paintings. Retrieved from https://www.kaggle.com/code/balraj98/unet-for-segmenting-bob-ross-paintings-pytorch
+
 [3] Harshall Lamda. (2019, Feb 17) Understanding Semantic Segmentation with UNET. Retrived from https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 
 
